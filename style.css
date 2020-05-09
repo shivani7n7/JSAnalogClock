@@ -20,7 +20,7 @@
 /* Clock styles */
 .circle {
 	fill: none;
-	stroke: #000;
+	stroke: skyblue;
 	stroke-width: 9;
 	stroke-miterlimit: 10;
 }
@@ -30,28 +30,28 @@
 }
 .hour-marks {
 	fill: none;
-	stroke: #000;
+	stroke: rgb(73, 70, 88);
 	stroke-width: 9;
 	stroke-miterlimit: 4;
 }
 
 .hour-arm {
 	fill: none;
-	stroke: #000;
+	stroke: red;
 	stroke-width: 17;
 	stroke-miterlimit: 10;
 }
 
 .minute-arm {
 	fill: none;
-	stroke: #000;
+	stroke: yellow;
 	stroke-width: 11;
 	stroke-miterlimit: 10;
 }
 
 .second-arm {
 	fill: none;
-	stroke: #000;
+	stroke: steelblue;
 	stroke-width: 4;
 	stroke-miterlimit: 10;
 }
